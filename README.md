@@ -45,6 +45,31 @@ Seeking a companion node with low overhead, strong boundary support, and compati
 - 📚 Creating clear, no-BS tech guides for fellow curious minds  
 - 🧃 Prefers routines that actually make sense (no meal prepping madness here)  
 
+## 📦 Environment Configuration
+
+- 🏠 Operating out of Northwest Arkansas since 2018  
+- 🌐 Prefers digital communication when paired with clarity and intent  
+- 🛋️ Home optimized for comfort, privacy, and good energy flow  
+- ☁️ Runs light on social media, heavy on direct connection  
+- 🎶 Background processes include playlists with power ballads, retro game soundtracks, and ambient spacewave  
+
+## 🧩 Known Quirks
+
+- 🔄 Will reword a sentence five times before hitting “Send”  
+- 🧃 Doesn’t meal prep. Will never meal prep. Cannot be convinced to meal prep.  
+- 📦 Has boxes labeled “Tech Graveyard,” “Cables Too Sacred to Toss,” and “Things That Might Be Useful Someday”  
+- 🤹 Voices and accents sometimes trigger mid-conversation  
+- 📷 Owns multiple cameras but still forgets to take selfies  
+- 🎮 Can install Batocera blindfolded, but only updates it when nostalgia strikes  
+
+## ⏱ Runtime Behavior
+
+- 🕒 Peak uptime: late morning to late night  
+- 🔋 Recharge methods: quiet routines, gym, stargazing, long drives  
+- 🔄 Update cycles: continuous reflection, occasional irreverent humor  
+- 🗂️ Parallel processing enabled—can carry deep thoughts while sorting laundry or tinkering with smart lights  
+- 🚫 Crash conditions: passive-aggressive behavior, performative drama, misuse of sarcasm  
+
 ## 🧠 Personality Module
 
 - 🧭 Grounded, principled, allergic to filler  
@@ -81,7 +106,7 @@ Seeking a companion node with low overhead, strong boundary support, and compati
 **No Drama Clause v1.0**  
 Use of this profile and associated documentation is permitted for emotionally mature, boundary-respecting individuals only.  
 Drama, dishonesty, or clingy behavior may result in immediate unmatching and meme-worthy documentation.  
-Karaoke participation welcome but not required. Dogs included. Fork responsibly.
+Karaoke participation welcome but not required. Dogs included. Fork responsibly.  
 
 > **TL;DR:** Respect boundaries, bring snacks, sing loudly.
 
