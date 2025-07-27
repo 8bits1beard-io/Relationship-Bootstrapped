@@ -55,12 +55,15 @@ Seeking a companion node with low overhead, strong boundary support, and compati
 
 ## 🧩 Known Quirks
 
-- 🔄 Will reword a sentence five times before hitting “Send”  
-- 🧃 Doesn’t meal prep. Will never meal prep. Cannot be convinced to meal prep.  
-- 📦 Has boxes labeled “Tech Graveyard,” “Cables Too Sacred to Toss,” and “Things That Might Be Useful Someday”  
-- 🤹 Voices and accents sometimes trigger mid-conversation  
-- 📷 Owns multiple cameras but still forgets to take selfies  
-- 🎮 Can install Batocera blindfolded, but only updates it when nostalgia strikes  
+- 🔄 Will reword a sentence five times before hitting “Send”
+- 🧃 Doesn’t meal prep. Will never meal prep. Cannot be convinced to meal prep.
+- 📦 Has boxes for “Tech Graveyard,” “Cables Too Sacred to Toss,” and “Things That Might Be Useful Someday”
+- 🤹 Voices and accents sometimes trigger mid-conversation
+- 🎮 Can install Batocera blindfolded, but only updates it when nostalgia strikes
+- 🧠 Fiercely independent—asking for help feels like recoding a kernel in Morse
+- 🦵 Leg shakes when deep in thought. May cause microquakes.
+- ⏳ Internalizes everything first. Emotional reaction times may vary.
+- 🛣️ Road trips bend toward chaos. Every kitschy monument and “world’s largest” *will* be seen
 
 ## ⏱ Runtime Behavior
 
