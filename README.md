@@ -21,7 +21,8 @@ Seeking a companion node with low overhead, strong boundary support, and compati
 
 - ✅ Two dogs, never married, no children  
 - ✅ 80+ lbs dropped since February  
-- ✅ Treats money like a tool—uses it freely, stays out of debt intentionally  
+- ✅ Good credit, no credit card debt  
+- ✅ Never been incarnated (this life only)  
 - ✅ Daily gym routines (machine-based, no group fitness)  
 - ✅ Comfortable working with Raspberry Pi, Jellyfin, Batocera, and Linux systems  
 - ✅ Fluent in sarcasm, direct communication, and voice play  
@@ -30,7 +31,7 @@ Seeking a companion node with low overhead, strong boundary support, and compati
 - ✅ Prioritizes routines that support mental clarity and low chaos  
 - ✅ Tinkerer with smart home setups and automation for comfort and privacy  
 - ✅ Enjoys solitude without seeking isolation—thrives in quiet connection  
-- ✅ Prefers transparency, simplicity, and people who mean what they say  
+- ✅ Prefers transparency, simplicity, and people who mean what they say
 
 ## 🎨 Hobbies & Interests
 
@@ -43,7 +44,6 @@ Seeking a companion node with low overhead, strong boundary support, and compati
 - 🧠 Voice play and accents just for the joy of it  
 - 🛋️ Optimizing smart home setups for privacy, comfort, and aesthetic flow  
 - 📚 Creating clear, no-BS tech guides for fellow curious minds  
-- 🧃 Prefers routines that actually make sense (no meal prepping madness here)  
 
 ## 📦 Environment Configuration
 
@@ -52,18 +52,6 @@ Seeking a companion node with low overhead, strong boundary support, and compati
 - 🛋️ Home optimized for comfort, privacy, and good energy flow  
 - ☁️ Runs light on social media, heavy on direct connection  
 - 🎶 Background processes include playlists with power ballads, retro game soundtracks, and ambient spacewave  
-
-## 🧩 Known Quirks
-
-- 🔄 Will reword a sentence five times before hitting “Send”
-- 🧃 Doesn’t meal prep. Will never meal prep. Cannot be convinced to meal prep.
-- 📦 Has boxes for “Tech Graveyard,” “Cables Too Sacred to Toss,” and “Things That Might Be Useful Someday”
-- 🤹 Voices and accents sometimes trigger mid-conversation
-- 🎮 Can install Batocera blindfolded, but only updates it when nostalgia strikes
-- 🧠 Fiercely independent—asking for help feels like recoding a kernel in Morse
-- 🦵 Leg shakes when deep in thought. May cause microquakes.
-- ⏳ Internalizes everything first. Emotional reaction times may vary.
-- 🛣️ Road trips bend toward chaos. Every kitschy monument and “world’s largest” *will* be seen
 
 ## ⏱ Runtime Behavior
 
@@ -86,7 +74,7 @@ Seeking a companion node with low overhead, strong boundary support, and compati
 
 # Structured traits preferred for optimal relationship performance
 
-<Requires>
+<Requires>  
 - Emotionally grounded and self-aware, with room for levity  
 - Financially stable and thoughtful in life decisions  
 - Values autonomy, clear communication, and low-maintenance closeness  
